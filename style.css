@@ -1,0 +1,102 @@
+body {
+ background: pink ;
+ color: White;
+
+}
+
+details {
+    color: grey;
+    text-align: center;
+    font-family: "Adobe Gothic Std";
+    margin: 0cm 0cm 0cm 0cm;
+
+
+}
+
+li {
+	color: white;
+	text-align: center;
+	font-family:"Adobe Gothic Std";
+	margin: 0cm 0cm 0cm 0cm;
+
+
+}
+
+#exp {
+	font-family:"Adobe Gothic Std";
+	text-align: center;
+	margin: 0cm 0cm 0cm 0cm;
+	color:#FFECFE;
+	font-size: 175%
+
+}
+
+#name {
+	font-family:"Adobe Song Std L";
+	font-size: 275%;
+	text-align: center;
+	letter-spacing: 3px;
+	text-transform: 
+}
+
+#linkedinpic {
+margin: 0cm 0cm 0.08cm 0cm;
+padding-right: 0.5cm;
+}
+
+#github {
+	padding-right: 0.5cm;
+}
+
+#twitter {
+	margin: 0.08cm 0cm 0cm 0cm;
+	padding-right: 0.5cm;
+}
+
+#aboutme {
+	text-align: center;
+	font-size: 275%;
+	color:#FFECFE;
+	font-family:"Adobe Gothic Std";
+}
+
+#me {
+	text-align: center;
+	font-family:"Adobe Gothic Std";
+	margin: 0cm 0cm 0cm 0m;
+	word-wrap:break-word;
+
+    
+}
+
+#github:hover { 
+    opacity: 0.5;
+
+}
+
+#twitter:hover { 
+    opacity: 0.5;
+
+}
+
+#linkedinpic:hover { 
+    opacity: 0.5;
+
+}
+
+header {
+	text-align: center;
+	font-size: 175%;
+	color:#FFECFE;
+	font-family:"Adobe Gothic Std";
+}
+
+#email {
+	margin: 0cm 0cm 0.08cm 25cm;
+
+}
+
+iframe {
+	margin: 0cm 0cm 0cm 9.2cm;
+}
+
