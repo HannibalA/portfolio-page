@@ -84,6 +84,11 @@ padding-right: 0.5cm;
 
 }
 
+#email:hover { 
+    opacity: 0.5;
+
+}
+
 header {
 	text-align: center;
 	font-size: 175%;
